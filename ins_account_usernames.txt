@@ -1,0 +1,15 @@
+NBCNews
+FoxNews
+CNN
+NYTimes
+WashTimes
+WSJ
+BBCNews
+Reuters
+Time
+Aljazeeraenglish
+Tabletmag
+voxdotcom
+vicenews
+Axios
+HuffPost
