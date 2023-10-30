@@ -1,0 +1,8 @@
+NBCNews
+FoxNews
+NYTimes
+WSJ
+Reuters
+Aljazeeraenglish
+voxdotcom
+Axios
