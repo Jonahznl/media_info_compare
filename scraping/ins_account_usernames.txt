@@ -6,10 +6,7 @@ WashTimes
 WSJ
 BBCNews
 Reuters
+APNews
 Time
 Aljazeeraenglish
 Tabletmag
-voxdotcom
-vicenews
-Axios
-HuffPost
